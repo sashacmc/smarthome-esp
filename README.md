@@ -19,6 +19,7 @@ My first esp07 board
 Provide:
 * Measure temperature and pressure by BMP280
 * Measuring CO2 level by MH-Z14
+
 HAS BUGS WITH POWER CONSUMPTION FOR MH-Z14!!!
 
 ## esp07_ups.*
